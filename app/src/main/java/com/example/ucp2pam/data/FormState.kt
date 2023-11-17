@@ -1,4 +1,4 @@
-package com.example.ucp2pam.ui.data
+package com.example.ucp2pam.data
 
 data class FormState(
     val nama:String = "",

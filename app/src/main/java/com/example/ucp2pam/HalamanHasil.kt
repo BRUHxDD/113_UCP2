@@ -4,7 +4,7 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.example.ucp2pam.ui.data.FormState
+import com.example.ucp2pam.data.FormState
 
 @Composable
 fun HalamanHasil(
@@ -15,6 +15,5 @@ fun HalamanHasil(
         modifier = modifier,
         verticalArrangement = Arrangement.SpaceBetween
     ) {
-
     }
 }
