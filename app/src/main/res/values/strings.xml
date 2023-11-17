@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UCP2 PAM</string>
+    <string name="next">Next</string>
+    <string name="submit_button">Submit</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsen">Konsentrasi</string>
+    <string name="judul_skripsi">Judul Skripsi</string>
+</resources>
